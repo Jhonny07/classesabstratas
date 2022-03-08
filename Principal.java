@@ -18,6 +18,7 @@ public class Principal {
         p.setNome("Loro");
         System.out.println(p.getNome());
         System.out.println(p.voar());
+        System.out.println(p.emitirSom());
 
         System.out.println("----------------------------------------");
 

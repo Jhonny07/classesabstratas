@@ -6,6 +6,6 @@ public class Papagaio extends Ave {
     }
     @Override
     public String emitirSom() {
-        return "Emite som alto";
+        return "Emite som alto!";
     }
 }
